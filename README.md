@@ -13,6 +13,6 @@ https://canvas.eee.uci.edu
 
 https://login.uci.edu
 
-www.ics.uci.edu/~thornton
+https://www.ics.uci.edu/~thornton
 
-All txt file in www.ics.uci.edu/~pattis
+All txt file in https://www.ics.uci.edu/~pattis

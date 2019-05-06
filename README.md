@@ -30,5 +30,8 @@ Q: Safari supported?
 
 A: Sorry I don't have a Mac. I will try it out when I install a Hackintosh.
  
+## Limitations
+1. Only tested on 4K UHD screen(3840x2160)
+ 
 ## Known BUG
 1. Unfit with non-landscape interface

@@ -26,6 +26,9 @@ Q: How to update?
 
 A: Unfortunately, Stylish does not support autoupdate. You need to update it manually by clicking the "Check for Update" button at the manage page(see the last question for detail). Warning: All your customized background will be lost upon update.
 
+Q: Safari supported?
+
+A: Sorry I don't have a Mac. I will try it out when I install a Hackintosh.
  
 ## Known BUG
 1. Unfit with non-landscape interface

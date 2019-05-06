@@ -21,3 +21,6 @@ All txt file in https://www.ics.uci.edu/~pattis
 Q: How to change background
 
 A: Click the Stylish button on the top right corner. Click the three dots. Manage all styles. Edit. Change the url to the one you want.
+
+## Known BUG
+1. Unfit with non-landscape interface
